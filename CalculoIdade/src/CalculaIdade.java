@@ -11,6 +11,9 @@ public class CalculaIdade {
 		// idade[1][0] = "Roberto Silva";
 		// idade[1][1] = "18";
 		// idade[2][0] = "Adriano Souza";
+		
+		System.out.println("Teste");
+		
 		// idade[2][1] = "27";
 
 		for (int i = 0; i < usuario.length; i++) {
